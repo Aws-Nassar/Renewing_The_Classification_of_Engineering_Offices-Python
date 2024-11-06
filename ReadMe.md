@@ -1,3 +1,7 @@
+Youtube Link: https://youtu.be/Wr3nWFdXx5c
+
+---------------------------------------------------------------------------------
+
 This project was implemented to renew the classification of engineering offices in the Engineers Syndicate - Nablus branch (in a simple manner that suits the time constraints), as the project contains a database file created by Python through the SQLite library (consisting of previous data for the offices and various accounts for employees In the union and elsewhere), the engineering office logs in through the office’s own account, and then the renewal process goes through the officials in the routine manner followed by the union, so that it ultimately reaches approval to renew the engineering office’s classification or not.
 
 ---------------------------------------------------------------------------------
